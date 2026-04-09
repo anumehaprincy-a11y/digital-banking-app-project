@@ -14,6 +14,22 @@ This project simulates an Agile-based enhancement of a digital banking applicati
 - Sprint-based execution
 - Jira-style workflow tracking
 
+## My Role as Project Manager
+In this project, I acted as the Project Manager, responsible for:
+
+- Defining project scope and objectives focused on improving user experience and transaction workflows  
+- Creating and prioritizing the product backlog with user stories and acceptance criteria  
+- Planning and managing sprint execution, including task tracking and progress monitoring  
+- Identifying risks and dependencies and driving timely resolution  
+- Maintaining visibility across tasks through structured sprint boards and documentation  
+
+## Key Outcomes
+
+- Improved clarity and prioritization of high-impact features  
+- Enhanced workflow visibility through structured sprint tracking  
+- Strengthened execution through clear task ownership and tracking  
+
+
 ## Key Contributions
 - Created and managed 10+ user stories aligned with business requirements  
 - Maintained a backlog of 20+ tasks with clear prioritization  
